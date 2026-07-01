@@ -1,5 +1,5 @@
 # personal-portfolio
-Personal Portfolio built using React, Vite and Tailwind CSS.
+Personal Portfolio In-progress using React, Vite and Tailwind CSS.
 
 <!DOCTYPE html>
 <html lang="en">
